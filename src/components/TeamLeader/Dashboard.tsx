@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Map } from '../shared/Map';
+import { Map } from '../Map';
 import { SalesMetrics } from './SalesMetrics';
 import { TeamManagement } from './TeamManagement';
 import { ProductManagement } from './ProductManagement';
